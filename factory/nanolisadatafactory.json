@@ -1,0 +1,9 @@
+{
+	"name": "nanolisadatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f81bcdcf-a0d5-44a8-b9fd-d8b38da5e956",
+		"tenantId": "3c11b6ac-94b4-4eee-bbf8-24f349cfe466"
+	}
+}
